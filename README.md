@@ -1,4 +1,4 @@
-# E-Commerce Website (MERN Stack with JWT Authentication)
+# E-Commerce Website
 
 Welcome to the E-Commerce Website repository! This project is a full-featured e-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application includes JWT (JSON Web Token) authentication for secure user authentication and authorization.
 
@@ -45,21 +45,5 @@ Welcome to the E-Commerce Website repository! This project is a full-featured e-
   - React Router for navigation.
   - Multer for file uploads.
 
-## Getting Started
 
-### Prerequisites
-
-- Node.js
-- MongoDB
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-mern-jwt.git
-   cd ecommerce
-   npm i
-   npm run dev
-   cd frontend
-   npm i
    npm run start
